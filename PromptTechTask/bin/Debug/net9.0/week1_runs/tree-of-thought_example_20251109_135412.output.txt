@@ -1,0 +1,51 @@
+## Step‑by‑Step Design Process  
+*(Goal: a 12‑oz cup that keeps a drink 5 °C above room temp for ≥90 min with retail price ≤ $20)*
+
+| Step | What to decide | Options | Evaluation Criteria | Picked option | Notes |
+|------|----------------|---------|---------------------|---------------|-------|
+| 1 | **Insulation strategy** | a) Vacuum‑insulated double‑walled stainless steel (like Thermos) <br> b) Foam‑insulated ceramic <br> c) Aerogel‑filled wall <br> d) PCM (phase‑change material) embed | Feasibility, cost, heat‑retention impact | **a** | Vacuum gives ~80–90 % retention for 90 min at $1.50–$2 per cup. |
+| 2 | **Cup body shape** | a) Classic cylindrical with tapered bottom <br> b) Curved “grip‑friendly” profile <br> c) Flat bottom for stability <br> d) Wide opening for easy pouring | Manufacturing ease, ergonomics, surface‑area effect | **a** | Reduces heat loss (minimal surface area) and is familiar. |
+| 3 | **Lid type** | a) Screw‑on silicone seal <br> b) Flip‑top lid <br> c) No lid <br> d) Lid with temperature sensor | Evaporation control, safety, cost | **a** | Seal keeps 95 % of steam inside → better retention. |
+| 4 | **Handle** | a) Stainless steel loop <br> b) Silicone handle <br> c) No handle | Durability, heat transfer, cost | **a** | Metal loop is durable & inexpensive ($0.10‑$0.15). |
+| 5 | **Base & grip** | a) Silicone anti‑slip base <br> b) Plain metal | Stability, user comfort | **a** | Adds grip without extra cost. |
+| 6 | **Optional features** | a) Reflective aluminized coating inside <br> b) Thin‑film anti‑bacterial coating <br> c) No extra coating | Retention boost, hygiene, cost | **a** | Coating reduces radiative loss by ~5 %. |
+
+---
+
+## Final Design Specifications
+
+| Item | Detail | Reason |
+|------|--------|--------|
+| **Capacity** | 355 ml (12 oz) | Standard cup size |
+| **Material** | 18 / 8 stainless steel double‑wall | Corrosion‑free, lightweight |
+| **Insulation** | 1.5 mm vacuum gap (sealed by glass‑ceramic seal) | Proven 90 % heat retention |
+| **Internal coating** | 0.1 mm aluminized reflective layer | 5 % radiative loss reduction |
+| **Lid** | 4 cm diameter screw‑on silicone seal, 0.3 mm thickness | Prevents evaporation |
+| **Handle** | Stainless steel loop, 3 cm diameter | Durable, low heat transfer |
+| **Base** | Silicone anti‑slip pad, 0.8 cm thick | Stability & grip |
+| **Finish** | Polished exterior, matte interior | Aesthetic & user feel |
+| **Dishwasher safe** | Yes (all parts) | Convenience |
+| **Manufacturing** | Injection‑molding for silicone parts, precision welding for metal, vacuum seal step | Cost‑effective at scale |
+| **Estimated cost** | Materials ≈ $4.50 / cup | 18 % of retail |
+| **Target retail price** | $18–$20 | Competitive |
+
+---
+
+## Iteration Summary
+
+1. **Prototype** with standard vacuum steel.  
+2. **Test** temperature retention (target ≥ 5 °C above ambient after 90 min).  
+3. If retention < 5 °C:  
+   - Increase wall thickness by 0.2 mm (adds <$0.05).  
+   - Add aluminized coating (adds <$0.10).  
+4. Re‑test until target met.  
+5. Finalize CAD, produce 3‑month pilot run, gather user feedback on ergonomics.
+
+---
+
+### Quick Take‑away
+
+- **Core idea:** Vacuum‑insulated double‑walled stainless steel + reflective lining + screw‑on silicone lid.  
+- **Why it works:** Vacuum eliminates convective loss; reflective layer cuts radiative loss; lid stops evaporation.  
+- **Cost‑control:** Keep walls thin, use off‑the‑shelf silicone, minimal extra coatings.  
+- **Result:** 12‑oz cup that stays 5 °C hotter than room temperature for 90 min, priced under $20.

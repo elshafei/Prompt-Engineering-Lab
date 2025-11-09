@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "k2cojTtvUFw=",
+  "success": true,
+  "projectFilePath": "D:\\Gen AI\\DAY1\\LAB\\PromptTechTask\\PromptTechTask\\PromptTechTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ITI\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\ITI\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.3\\microsoft.extensions.logging.abstractions.8.0.3.nupkg.sha512",
+    "C:\\Users\\ITI\\.nuget\\packages\\openai\\2.6.0\\openai.2.6.0.nupkg.sha512",
+    "C:\\Users\\ITI\\.nuget\\packages\\system.clientmodel\\1.7.0\\system.clientmodel.1.7.0.nupkg.sha512",
+    "C:\\Users\\ITI\\.nuget\\packages\\system.memory.data\\8.0.1\\system.memory.data.8.0.1.nupkg.sha512",
+    "C:\\Users\\ITI\\.nuget\\packages\\system.net.serversentevents\\9.0.9\\system.net.serversentevents.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

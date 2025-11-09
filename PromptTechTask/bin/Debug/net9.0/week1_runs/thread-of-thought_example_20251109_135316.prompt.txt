@@ -1,0 +1,2 @@
+CONTEXT: Party music preferences problem (10 guests, 3 genres, limited speakers).
+Walk me through in manageable parts to maximize satisfied guests.

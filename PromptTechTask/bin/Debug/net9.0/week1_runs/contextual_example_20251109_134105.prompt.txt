@@ -1,0 +1,2 @@
+CONTEXT: My name is Jennifer Luke and I'm a marketing manager at JL Firm.
+Write an email to the team about the upcoming campaign

@@ -1,0 +1,1 @@
+Design a coffee cup that keeps drinks hot longer. Break down steps; at each, generate options, evaluate (feasibility/cost/impact), choose best, iterate to a final design.

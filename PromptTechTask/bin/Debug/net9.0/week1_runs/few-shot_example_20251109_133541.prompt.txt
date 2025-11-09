@@ -1,0 +1,5 @@
+Return the sentiment of this statement 'The lecture was quite boring' only. Either Positive, Negative, or Neutral. 
+ EXAMPLES:
+ 'This movie was great!': Positive
+'I hated the service.': Negative'
+I don't know how I feel about it.': Neutral

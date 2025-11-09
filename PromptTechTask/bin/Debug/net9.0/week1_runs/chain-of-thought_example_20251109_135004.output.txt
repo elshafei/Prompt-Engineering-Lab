@@ -1,0 +1,24 @@
+Sure, let’s walk through it step by step.  
+
+1. **Start with the original price** of the meal (let’s call it **P**).  
+2. **Apply the 10 % discount**.  
+   - Discount amount = 10 % × P = 0.10 P.  
+   - Discounted price = P – 0.10 P = 0.90 P.  
+3. **Add the 7 % sales tax** to the discounted price.  
+   - Tax amount = 7 % × (0.90 P) = 0.07 × 0.90 P = 0.063 P.  
+   - Total price = discounted price + tax = 0.90 P + 0.063 P = **0.963 P**.  
+
+So the final cost is **96.3 % of the original price**.  
+In other words, you can calculate the total cost simply with the formula:
+
+\[
+\text{Total} = P \times 0.90 \times 1.07 = P \times 0.963
+\]
+
+**Example** – if the meal originally costs \$100:
+
+- Discount = \$10 → \$90 remaining  
+- Tax on \$90 = \$6.30  
+- Final total = \$90 + \$6.30 = **\$96.30**  
+
+That’s the step‑by‑step process!

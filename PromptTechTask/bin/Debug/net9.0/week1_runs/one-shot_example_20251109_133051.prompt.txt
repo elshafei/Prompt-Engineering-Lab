@@ -1,0 +1,4 @@
+In uppercase, return the Spanish translation of the English word 'basket' only.
+EXAMPLE:
+English word (input): River
+Spanish translation (output): RÍO

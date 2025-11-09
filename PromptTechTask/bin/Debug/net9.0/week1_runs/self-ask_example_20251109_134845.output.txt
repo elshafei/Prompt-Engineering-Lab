@@ -1,0 +1,40 @@
+**Should you pursue a master’s in data science?**  
+Below are the key sub‑questions that will help you decide. Answer each honestly, then read the final recommendation.
+
+| # | Sub‑question | What to look for in your answer |
+|---|--------------|---------------------------------|
+| 1 | **What are your long‑term career goals?** | Do you want a *specific* role (ML engineer, data scientist, analytics lead), a *higher level* (lead/manager), or just a *career change*? |
+| 2 | **What skills do you already possess?** | Programming (Python/R), statistics, machine learning, database work, domain knowledge? |
+| 3 | **What is the current demand for data scientists?** | Look at job boards, LinkedIn, industry reports—are openings plentiful? |
+| 4 | **What will the master’s program add beyond your current skill set?** | Advanced topics, research, capstone projects, faculty expertise, industry partnerships, networking, credential prestige. |
+| 5 | **What are the costs and time commitments?** | Tuition, living expenses, 1–2 years full‑time, or part‑time/online; opportunity cost of leaving a job or delaying income. |
+| 6 | **Are there cheaper or faster alternatives?** | Bootcamps, online certificates (Coursera, edX), self‑study, on‑the‑job training, company sponsorship. |
+| 7 | **What are your personal circumstances?** | Location (on‑campus vs online), family commitments, current income, credit situation. |
+| 8 | **What is the expected ROI?** | Salary uplift after graduation, projected job placement rates, time to pay back the investment. |
+
+---
+
+### Answers
+
+| # | Answer (example) | Why it matters |
+|---|------------------|----------------|
+| 1 | I want to become a senior data scientist in tech, eventually leading a team. | A master’s can signal readiness for senior roles. |
+| 2 | I have 3 years of software dev experience, basic Python, and an undergraduate degree in engineering. | Strong foundation, but lacks formal ML theory and portfolio depth. |
+| 3 | 85 % of tech‑company data‑science roles list a master’s as preferred; salary gap for those without is ~15 %. | Market favors advanced degrees for higher positions. |
+| 4 | Program offers a thesis, industry‑partner capstone, and faculty who publish in top journals. | These differentiate you from self‑taught peers and provide a research‑style portfolio. |
+| 5 | Tuition $15K/yr, 2 years, total $30K; will pause my current job for 2 years. | Significant outlay and lost earnings; assess if you can afford it. |
+| 6 | A 6‑month bootcamp costs $5K and offers a job guarantee; online MOOC tracks cost $0–$3K. | Cheaper, faster paths exist that can build comparable skill sets. |
+| 7 | I live in a city with high living costs, have a spouse who works, and limited savings. | Harder to take a 2‑year break without financial strain. |
+| 8 | Expected salary post‑grad: $110K (vs $90K now). Payback time ≈ 3 years if you stay in the same company. | ROI is moderate but depends on maintaining employment and negotiating a raise. |
+
+---
+
+### Final Recommendation
+
+*If* your **primary goal is to reach senior‑level data‑science roles in top tech companies** and you can **afford the 2‑year commitment without jeopardizing financial stability**, a master’s can give you a competitive edge through advanced knowledge, a research portfolio, and networking.
+
+However, if **you’re comfortable with your current salary and the path to senior roles is attainable through on‑the‑job experience, certifications, or bootcamps**, a master’s may not be the most efficient route—especially given the higher upfront costs and opportunity costs.
+
+**Bottom line:**  
+- **Go for the master’s** if you value the credential, need research experience, and can financially sustain it.  
+- **Opt for alternative routes** (bootcamps, online courses, self‑study) if you want a quicker, cheaper way to advance and your current experience already aligns closely with industry expectations.

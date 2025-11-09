@@ -1,0 +1,1 @@
+Find the latest EV market trends. First list keywords, then call a search API, observe results, refine, and repeat until most relevant, recent data is found.

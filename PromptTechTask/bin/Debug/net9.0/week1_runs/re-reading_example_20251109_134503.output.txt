@@ -1,0 +1,17 @@
+Let the width be \(w\) meters.  
+Length \(=3w\).
+
+Perimeter:  
+\[
+2(\text{length}+\text{width})=400
+\]
+\[
+2(3w+w)=400\;\;\Longrightarrow\;\;4w=200\;\;\Longrightarrow\;\;w=50\text{ m}
+\]
+
+Thus the length is  
+\[
+3w = 3(50) = 150\text{ m}
+\]
+
+**Dimensions:** 50 m wide × 150 m long.
